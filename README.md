@@ -35,7 +35,7 @@ Module 15
 
 &nbsp;&nbsp;&nbsp;&nbsp; At a ```significance level of 0.05,``` we fail to reject the null hypothesis since the```p-value equals 0.06```. Therefore, we cannot reject the fact that the sample mean may be equivalent to the true population mean or that no significant difference exists.
 
-### T-Test on Three Smaller Lots
+## T-Test on Three Smaller Lots
 <p align="center">
 <img src="https://github.com/caseychen3605/MechaCar_Statistical_Analysis/blob/main/Resources/lots_t_test.PNG">
 </p>
@@ -52,3 +52,30 @@ At a ```significance level of 0.05```, we can reject the null hypothesis since t
 
 
 ## Study Design: MechaCar vs. Competition
+This study would involve collecting data on MechaCar and its comparable models across several different manufacturers over the last 3 years.
+
+* What are the competitions' comparable models(general-consumer/family cars), 
+* Which car brands will MechaCar be competing with head-to-head? which cars types will be included in the study?
+* Which directly relevant factors will we look at to determine selling price?
+ 
+
+#### Metrics
+Collecting data for comparable models across all major manufacturers for past 4 years for the following metrics:
+
+*  Safety Feature Rating: **Independent Variable**
+*  Malfunctions/recalls: **Independent Variable**
+*  Current Price (Selling): **Dependent Variable**
+*  Engine (Electric, Hybrid, Gasoline / Conventional): **Independent Variable**
+*  Average Annual Cost of ownership (Maintenance): **Dependent Variable**
+*  MPG (Gasoline Efficiency): **Independent Variable**
+*  Consumer Ratings/Usage(such as: Work, Personal, Family, Mixed):**Dependent Variable**
+
+
+#### Hypothesis: Null and Alternative
+After determining which factors are key for the MechaCar's genre:
+
+ * Null Hypothesis (Ho): MechaCar is fairly priced based on its performance of key factors for its genre.
+ * Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
+ 
+#### Statistical Tests
+A **multiple linear regression** would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price (it may be all of them!)
