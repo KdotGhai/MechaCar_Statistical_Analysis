@@ -15,7 +15,7 @@ The goal of the project is to analyze metrics that can affect the manufacturing 
 
 ## Summary Statistics on Suspension Coils
 <p align="center">
-<img src = "https://github.com/KdotGhai/MechaCar_Statistical_Analysis/blob/30f73892373d438e1f8e2941c84b519c30d3ab7a/Images/lot_summary_table.PNG" width="510" height="100"/>
+<img src = "https://github.com/KdotGhai/MechaCar_Statistical_Analysis/blob/30f73892373d438e1f8e2941c84b519c30d3ab7a/Images/lot_summary_table.PNG" width="700" height="2500"/>
 <img src = "https://github.com/KdotGhai/MechaCar_Statistical_Analysis/blob/30f73892373d438e1f8e2941c84b519c30d3ab7a/Images/total_summary_table.PNG" width="500" height="110"/>
 </p>
 
