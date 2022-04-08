@@ -12,6 +12,7 @@ The goal of the project is to analyze metrics that can affect the manufacturing 
 * At a significance level of 0.05(0.025 at each tail end) for 95% confidence level, we are able to reject the null hypothesis because of the extremely small p-value(5.35e-11). The null hypothesis of a linear regression states that the slope is equal to 0. However, if we reject the null hypthesis, we're stating that alternative hypothesis (slope ≠ 0) is true, we must take into consideration in select scenarios where the p-value still falls under the rejection area but may be too high a value to consider rejecting the null hypothesis.
 * Multiple R-squared increases as more variables are passed through the regression. However, adjusted R-squared controls against this increase, and adds penalties for the number of predictors in the model, thus making it a more accurate predictor of how effective the linear model is. An adjusted R-square of 0.6825 concludes that this linear model suggest moderately postive correlations with all the independent varaibles.
 <br>
+
 ## Summary Statistics on Suspension Coils
 <p align="center">
 <img src = "https://github.com/KdotGhai/MechaCar_Statistical_Analysis/blob/30f73892373d438e1f8e2941c84b519c30d3ab7a/Images/lot_summary_table.PNG" width="410" height="70"/>
