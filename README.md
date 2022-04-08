@@ -26,4 +26,4 @@ Module 15
 <p align="center">
 <img src="https://github.com/KdotGhai/MechaCar_Statistical_Analysis/blob/724893607de835ab56e57abe287bb995b57a822a/Images/t-test.PNG">
 </p>
-&nbsp;&nbsp;&nbsp;&nbsp;At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 0.06. Therefore, we cannot reject the fact that the sample mean may be equivalent to the true population mean or that no significant difference exists. Another feature to note is the narrow confidence interval. Although a narrower confidence interval implies that there is a smaller chance of obtaining an observation within that interval, it provides greater accuracy than a wider interval.
+&nbsp;&nbsp;&nbsp;&nbsp;At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 0.06. Therefore, we cannot reject the fact that the sample mean may be equivalent to the true population mean or that no significant difference exists.
