@@ -78,7 +78,7 @@ After determining which factors are key for the MechaCar's genre:
  * Alternative Hypothesis: MechaCar is NOT priced correctly based on performance of key factors for its genre.
  
 #### Statistical Tests
-A **multiple linear regression** would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price (it may be all of them!)
+A **multiple linear regression** would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price (it may be all of them!). We may also need to consider doing a paired t-test mainly on MPG and Maintenance to determine their impact over the period of time or at various points within the 4 years worth of data
 
 <br>
 
