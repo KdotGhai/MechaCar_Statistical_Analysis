@@ -83,4 +83,5 @@ A **multiple linear regression** would be used to determine the factors that hav
 <br>
 
 ## Sources of info:
-
+* The Organic Chemistry Tutor
+  - https://youtu.be/XHPIEp-3yC0
