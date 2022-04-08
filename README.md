@@ -6,6 +6,8 @@ Module 15
 
 ## Linear Regression to Predict MPG
 ![Linear Regression](https://github.com/KdotGhai/MechaCar_Statistical_Analysis/blob/30f73892373d438e1f8e2941c84b519c30d3ab7a/Images/linear_regression.PNG)
+<br>
+![Linear Regression Summary](https://github.com/KdotGhai/MechaCar_Statistical_Analysis/blob/5b33a9a6efc1875b7eb1ec39cc8be621ffda139c/Images/linear_regression_summary.PNG)
 
 3 Key Takeaways:
 * Variance of a non-random variable is usually 0. Given this fact, the intercept, vehicle_length, and ground_clearance coeeficients can be said to provide a non-random amount of variance to the mpg values. 
