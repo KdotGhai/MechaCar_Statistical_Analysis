@@ -15,9 +15,9 @@ Module 15
 
 ## Summary Statistics on Suspension Coils
 <p align="center">
-  <br>LOT SUMMARY</br>
+  <br>  ### LOT SUMMARY  </br>
 <img src = "https://github.com/KdotGhai/MechaCar_Statistical_Analysis/blob/30f73892373d438e1f8e2941c84b519c30d3ab7a/Images/lot_summary_table.PNG" width="700" height="200"/>
-  <br>TOTAL SUMMARY TABLE</br>
+  <br>  ### TOTAL SUMMARY TABLE  </br>
 <img src = "https://github.com/KdotGhai/MechaCar_Statistical_Analysis/blob/30f73892373d438e1f8e2941c84b519c30d3ab7a/Images/total_summary_table.PNG" width="700" height="170"/>
 </p>
 
