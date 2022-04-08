@@ -38,7 +38,9 @@ Module 15
 <p align="center">
 <img src="https://github.com/caseychen3605/MechaCar_Statistical_Analysis/blob/main/Resources/lots_t_test.PNG">
 </p>
+
 #### Lot 1
+
 At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 1. An interesting correlation between p-value and confidence intervals is that as the p-values get larger, the confidence interval becomes smaller, implying more precision in predicting the true population mean.
 
 #### Lot 2
