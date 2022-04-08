@@ -84,4 +84,7 @@ A **multiple linear regression** would be used to determine the factors that hav
 
 ## Sources of info:
 * The Organic Chemistry Tutor
-  - https://youtu.be/XHPIEp-3yC0
+  - Basic Fundamentals of types of tests: https://youtu.be/XHPIEp-3yC0
+  - Z-test example and basic explanation: https://youtu.be/zJ8e_wAWUzE
+  - P-Value Method: https://youtu.be/8Aw45HN5lnA
+* Free Online In-Depth stat book: https://onlinestatbook.com/2/estimation/mean.html
