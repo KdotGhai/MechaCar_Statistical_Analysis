@@ -88,3 +88,6 @@ A **multiple linear regression** would be used to determine the factors that hav
   - Z-test example and basic explanation: https://youtu.be/zJ8e_wAWUzE
   - P-Value Method: https://youtu.be/8Aw45HN5lnA
 * Free Online In-Depth stat book: https://onlinestatbook.com/2/estimation/mean.html
+* R Squared vs Adjusted R Squared: https://stats.stackexchange.com/questions/353807/which-is-better-r-squared-or-adjusted-r-squared
+* Basics of R Squared: https://www.investopedia.com/ask/answers/012615/whats-difference-between-rsquared-and-adjusted-rsquared.asp#:~:text=Many%20investors%20prefer%20adjusted%20R,the%20stock%20index%20is%20measured.
+* Interpreting R Squared: https://www.investopedia.com/terms/r/r-squared.asp#:~:text=In%20other%20fields%2C%20the%20standards,would%20show%20a%20low%20correlation.
