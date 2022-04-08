@@ -21,3 +21,9 @@ Module 15
 
 &nbsp;&nbsp;&nbsp;&nbsp;The overall variance for the entire dataset indicates that the current manufacturing data meets the 100 pounds per square inch variance limitation. However, when separated into three lots, the third lot demonstrates a much higher variance. Because the lots are chosen randomly, there is a possiblity that a third of the lot does not meet the necessary suspension coils requirement.
   
+## T-Test on Suspension Coils
+### T-Test on Entire Lot
+<p align="center">
+<img src="https://github.com/caseychen3605/MechaCar_Statistical_Analysis/blob/main/Resources/t-test.PNG">
+</p>
+At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 0.06. Therefore, we cannot reject the fact that the sample mean may be equivalent to the true population mean. Another feature to note is the narrow confidence interval. Although a narrower confidence interval implies that there is a smaller chance of obtaining an observation within that interval, it provides greater accuracy than a wider interval.
