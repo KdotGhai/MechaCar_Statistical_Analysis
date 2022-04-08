@@ -19,7 +19,7 @@ Module 15
 <img src = "https://github.com/KdotGhai/MechaCar_Statistical_Analysis/blob/30f73892373d438e1f8e2941c84b519c30d3ab7a/Images/total_summary_table.PNG" width="700" height="170"/>
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The overall variance for the entire dataset indicates that the current manufacturing data meets the 100 pounds per square inch variance limitation. However, when separated into three lots, the third lot demonstrates a much higher variance. Because the lots are chosen randomly, there is a possiblity that a third of the lot does not meet the necessary suspension coils requirement.
+&nbsp;&nbsp;&nbsp;&nbsp;The overall variance for the entire dataset indicates that the current manufacturing data meets the 100 pounds per square inch variance limitation. However, when separated into three lots, the third lot demonstrates higher variance, the lots are chosen randomly so there is high probability of it not meeting the necessary suspension coils requirement.
   
 ## T-Test on Suspension Coils
 ### T-Test on Entire Lot
