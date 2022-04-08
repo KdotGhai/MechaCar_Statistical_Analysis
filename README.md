@@ -74,8 +74,8 @@ Collecting data for comparable models across all major manufacturers for past 4 
 #### Hypothesis: Null and Alternative
 After determining which factors are key for the MechaCar's genre:
 
- * Null Hypothesis (Ho): MechaCar is fairly priced based on its performance of key factors for its genre.
- * Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
+ * Null Hypothesis: MechaCar is fairly priced based on its performance of key factors for its genre.
+ * Alternative Hypothesis: MechaCar is NOT priced correctly based on performance of key factors for its genre.
  
 #### Statistical Tests
 A **multiple linear regression** would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price (it may be all of them!)
